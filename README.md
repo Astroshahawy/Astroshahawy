@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Dart, Flutter**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1H7bQW2sfnQfCNjlaw99fXvHeaI9xu7hb/view?usp=share_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ScWQBNnw8G66sXO8XhyrfLmJhkdY9TuW/view?usp=drive_link)
 
 <h3>🔗 Connect with me</h3>
 
